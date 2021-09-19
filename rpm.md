@@ -27,7 +27,8 @@ Multiply 89 by 18
 |5      |       |
 |2      |       |
 |1      |       |
-**Halve values in the halving column until 1**
+
+Halve values in the halving column until 1 
 
 |Halving|Doubling|
 |:-------|:-------|
@@ -38,7 +39,8 @@ Multiply 89 by 18
 |5      |288    |
 |2      |576    |
 |1      |1,152  |
-**Double values in the doubling column**
+
+Double values in the doubling column
 
 |Halving|Doubling|
 |:-------|:-------|
@@ -49,7 +51,8 @@ Multiply 89 by 18
 |5      |288    |
 |~~2~~  |~~576~~|
 |1      |1,152  |
-**Remove rows where the halving column has an even number.**
+
+Remove rows where the halving column has an even number.
 
 |Halving|Doubling|
 |:-------|:-------|
@@ -57,7 +60,8 @@ Multiply 89 by 18
 |11     |144    |
 |5      |288    |
 |1      |1,152  |
-**Take the sum of the remaining entries in the doubling column**
+
+Take the sum of the remaining entries in the doubling column
 
 $18 - 144 + 288 +1,152 = 1,602$
 

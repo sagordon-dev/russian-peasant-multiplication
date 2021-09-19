@@ -1,6 +1,6 @@
 # rpm.py
-#   This program uses the "Russian Peasant Multiplication" algorthm
-#   to solve for muliplication through binary expansion.
+#   This program uses the "Russian Peasant Multiplication" algorithm
+#   to solve for multiplication through binary expansion.
 #   (See rpm.md for a full explaination)
 # by: Scott Gordon
 
